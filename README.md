@@ -1,7 +1,7 @@
 # HydroFloat Dataset
 
-Welcome to the GitHub repository of the HydroFloat Dataset. This dataset features images of six common types of floating debris: plastic bottles, plastic bags, cans, dead fish, water hyacinths, and foam. It is designed to aid the development of machine learning models for environmental monitoring and cleanup.
-## Data Collection Method
+Dataset used - This dataset features images of six common types of floating debris: plastic bottles, plastic bags, cans, dead fish, water hyacinths, and foam. It is designed to aid the development of machine learning models for environmental monitoring and cleanup.
+## Info on Data Collection Method
 
 The HydroFloat Dataset was compiled using two primary methods of data collection:
 
@@ -23,7 +23,7 @@ This meticulous approach to data collection and curation ensures that the HydroF
 
 ## Dataset Content
 - **Total Images**: 4497
-- **Categories**: Plastic bottles, plastic bags, cans, dead fish, water hyacinths, foam
+- **Categories**: Plastic bottles, plastic bags, cans, dead fish, water hyacinths
 - **Resolution**: Each image is 640x640 pixels
 - **Format**: JPEG
 
@@ -32,20 +32,11 @@ This meticulous approach to data collection and curation ensures that the HydroF
 HydroFloat/ │ ├── images/ # Image files │ ├── train/ # Training set images │ ├── test/ # Test set images │ └── val/ # Validation set images 
 
 
-## Usage Example
-Here is a simple example of how to load and use the HydroFloat Dataset in Python:
-```python
-import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
 
-# Load an example image from the training set
-img = mpimg.imread('HydroFloat/images/train/sample.jpg')
-imgplot = plt.imshow(img)
-plt.show()
-```
 
 
 Contact Information
 If you have any questions, please contact us at:
 
 Email: 13834467383@163.com
+
