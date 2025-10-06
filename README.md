@@ -1,4 +1,4 @@
-# HydroFloat
+# RiverRevive (HydroFloat)
 
 Dataset used - This dataset features images of six common types of floating debris: plastic bottles, plastic bags, cans, dead fish, water hyacinths, and foam. It is designed to aid the development of machine learning models for environmental monitoring and cleanup.
 ## Info on Data Collection Method
@@ -39,5 +39,6 @@ Contact Information
 If you have any questions, please contact us at:
 
 Email: 13834467383@163.com
+
 
 
